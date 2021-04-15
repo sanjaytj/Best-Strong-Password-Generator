@@ -1,0 +1,38 @@
+body{
+    background-color: palevioletred;
+    color: #FFFFFF;
+}
+
+#form{
+    margin: auto;
+    margin-top: 5%;
+    background-color: #9c2970;
+    padding: 20px;
+    width: 350px;
+}
+
+#form h2{
+    text-align: center;
+}
+
+.option{
+    font-size: 123%;
+    margin-bottom: 5%;
+}
+
+#result{
+    background-color: #62b362;
+    text-align: center;
+    font-size: large;
+    letter-spacing: 1px;
+    padding: 10px;
+    height: 25px;
+}
+
+#generate{
+    background-color: #62b362;
+    color: #FFFFFF;
+    width: 100%;
+    height: 35px;
+    border: #62b362 solid ;
+}
